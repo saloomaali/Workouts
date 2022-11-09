@@ -1,3 +1,5 @@
+package Workout_1;
+
 import java.util.Scanner;
 
 public class fibonacci {

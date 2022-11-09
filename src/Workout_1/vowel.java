@@ -1,3 +1,5 @@
+package Workout_1;
+
 import java.util.Scanner;
 
 public class vowel {
@@ -16,7 +18,7 @@ public class vowel {
             case ('o'):
 
             case ('u'):
-                System.out.println("The given character is vowel ");
+                System.out.println("The given character is Workout_1.vowel ");
                 break;
 
 
